@@ -149,7 +149,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dependabot-omnibus (~> 0.118.8)
+  dependabot-omnibus
   irb
 
 BUNDLED WITH
